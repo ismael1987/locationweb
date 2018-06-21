@@ -1,4 +1,4 @@
-package com.location.locationweb.repos;
+package repos;
 
 import model.Location;
 import org.springframework.data.jpa.repository.JpaRepository;
